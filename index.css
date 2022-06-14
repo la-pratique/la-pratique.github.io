@@ -53,3 +53,22 @@ a {
 	font-weight: 100;
 	font-size: 1rem;
 }
+
+
+.done, .prod, .not-started {
+	font-size: small;
+	font-weight: 300;
+	padding: 2px;
+}
+
+.done {
+	background-color: aquamarine;
+}
+
+.prod {
+	background-color: rgb(255, 179, 37);
+}
+
+.not-started {
+	background-color: rgb(216, 112, 112);
+}
